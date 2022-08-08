@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS101-Odev/1.0.0": {
+        "runtime": {
+          "CS101-Odev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS101-Odev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

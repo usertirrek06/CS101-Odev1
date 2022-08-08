@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.exe
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.deps.json
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.dll
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\bin\Debug\netcoreapp3.1\CS101-Odev.pdb
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.dll
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.pdb
+C:\Users\Tarık Buğra\source\repos\CS101-Odev\CS101-Odev\obj\Debug\netcoreapp3.1\CS101-Odev.genruntimeconfig.cache
